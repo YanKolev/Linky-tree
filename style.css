@@ -115,9 +115,9 @@ main {
 
 }
 
-@media (min-width: 540px) {
+@media (min-width: 640px) {
     body {
-        gap: 54px;
+        gap: 64px;
         padding: 80px 14px;
     }
 
